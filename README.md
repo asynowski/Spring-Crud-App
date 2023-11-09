@@ -1,4 +1,4 @@
-# Spring-Crud-App
+# A CRUD application built using Spring Boot, Maven, and MySQL.
  Routes:
  - /addProduct
  - /addProducts
